@@ -27,12 +27,12 @@ To see a sample run:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wanxin2883/HELPMediLife-insurance-c.git
-   cd HELPMediLife-insurance-c
+   git clone https://github.com/Wanxin2883/helpmedilife-insurance-console.git
+   cd helpmedilife-insurance-console
 
 2. Compile and run the program:
    ```bash
-   gcc helpmedilife-insurance.c -o insurance
+   gcc main.c -o insurance
    ./insurance
 
 3. Follow the console prompts:
