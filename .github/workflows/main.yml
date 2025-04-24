@@ -19,4 +19,4 @@ jobs:
       - name: Run C program
         run: |
           echo "Program output:"
-          ./insurance < input.txt || echo "Please provide input if needed"
+          ./insurance < .github/workflows/input.txt || echo "Please provide input if needed"
