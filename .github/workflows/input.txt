@@ -1,17 +1,17 @@
-1
-1
-20
-1
-1
-John Doe
-Malaysian
-001122-01-3344
-01/01/2000
-M
-123 Street, KL
-0123456789
-Y
-N
-N
-N
-N
+1               # Choose to subscribe
+1               # Age more than 1 year
+20              # Age in years
+1               # Yes, subscribe to Insurance180
+1               # Claim limit type: Annual
+John Doe        # Full Name
+Malaysian       # Nationality
+001122-01-3344  # IC Number
+01/01/2000      # Date of Birth
+M               # Gender
+123 Street, KL  # House Address
+0123456789      # Contact Number
+Y               # Asthma
+N               # Diabetes
+N               # Heart Disease
+N               # Hypertension
+N               # Obesity
