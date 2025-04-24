@@ -10,7 +10,7 @@ Malaysian       # Nationality
 M               # Gender
 123 Street, KL  # House Address
 0123456789      # Contact Number
-Y               # Asthma
+N               # Asthma
 N               # Diabetes
 N               # Heart Disease
 N               # Hypertension
