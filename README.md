@@ -23,21 +23,10 @@ When you run the program, you'll be prompted to:
 
 ## ▶️ Demonstration 
 
-To see a sample run:
+To see the program in action:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Wanxin2883/helpmedilife-insurance-console.git
-   cd helpmedilife-insurance-console
-
-2. Compile and run the program:
-   ```bash
-   gcc main.c -o insurance
-   ./insurance
-
-3. Follow the console prompts:
-   - Input `1` to subscribe to an insurance plan.
-   - Input age and follow the instructions to view eligibility.
-   - Continue through each stage (plan selection, personal details, claims).
+1. Navigate to the **[Actions](../../actions)** tab of this repository.
+2. Click on the latest workflow run titled **"main"**.
+3. Expand the **"main"** step to view the full output in the logs.
 
 > A full walkthrough of the program including **flowcharts**, **pseudocode**, and **code explanation** can be found in the `HELPMediLife-documentation.docx` file in this repo.
