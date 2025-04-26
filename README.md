@@ -31,6 +31,6 @@ To see the program in action:
 
 > A full walkthrough of the program including **flowcharts**, **pseudocode**, and **code explanation** can be found in the `HELPMediLife-documentation.docx` file in this repo.
 
-## Author 
+## 👨‍💻 Author 
 Cheah Wan Xin 
 
