@@ -30,3 +30,7 @@ To see the program in action:
 3. Expand the **"Run C Program"** step to view the full output in the logs.
 
 > A full walkthrough of the program including **flowcharts**, **pseudocode**, and **code explanation** can be found in the `HELPMediLife-documentation.docx` file in this repo.
+
+## Author 
+Cheah Wan Xin 
+
